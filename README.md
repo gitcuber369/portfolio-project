@@ -1,4 +1,4 @@
-# Project Title
+# Portfolio Project 
 
 Brief description of your project.
 
@@ -11,10 +11,11 @@ Brief description of your project.
 - [Contact](#contact)
 
 ## About
-Provide a brief overview of your project. Mention its purpose, features, and any other relevant information.
+I made this project just to brush up my html and css knowledge made it using a youtube video
 
 ## Demo
-Include a link or embed a demo of your project. You can use tools like Netlify, GitHub Pages, or any other platform where your project is hosted.
+
+
 
 ## Technologies Used
 List the technologies and libraries you used in your project.
@@ -23,12 +24,19 @@ List the technologies and libraries you used in your project.
 - CSS
 - [Particle.js](https://vincentgarreau.com/particles.js/)
 
+##Contact 
+Name: Arpit Chaudhary
+Twitter: @gitcuber
+Email: arpitchaudhary2003@gmail.com
+
 ## Installation
-Provide instructions on how to install and set up your project locally. Include any dependencies that need to be installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+
+
+
+git clone https://github.com/gitcuber369/portfolio-project.git
 
 # Navigate to the project directory
 cd your-repo
